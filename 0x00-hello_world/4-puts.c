@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- * main - print a string without using printf only with puts unction
- * Return: 0 (Success)
+ * main - print a string without using printf only with puts
+ * Return: 0
  */
 
 int main(void)
